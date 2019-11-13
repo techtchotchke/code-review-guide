@@ -490,3 +490,12 @@ This seems obvious, but most reviewers don't have the time or take the time to
 manually test every user-facing change. It's important to make sure the
 business logic of every change is as per design. It's easy to forget that when
 you're just looking for problems in the code!
+
+### Be vvvv kind to ur team lead
+
+he is premium quality enginavigateer material and must balance his time between
+reviewing code & contributing to TLST LLC (that's totally legal space trucking 
+for all u earth folks) so pls reward his kindness & understanding in turn w ur
+own kindness and understanding, and probably a care package with some snacks &
+hand warmers. & write better commit messages. that is all. much love from 
+spaceshipcaptain extraordinaire
